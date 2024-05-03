@@ -17,7 +17,7 @@ topic news out 1 "" devices/b827eb309ede/
 cleansession true
 ```
 This will create a connection with the name `b827eb309ede_broker`, which is the MAC address of this pi and then _broker. It is not necessary for this project but just in case someone wants to extend this project to mulpitple pi
-s they can keep the naming convention of <'MAC ADDRESS'>_broker. Then we want to communicate to our EC2 instance so we write the ip followed by the port number. WARNING: this is an insecure port, and this project will not go over how to secure it. By default, mqtt uses 1883 so we must remeber to use this port for communication. We must map the topic `news` to outward connections only with qos 1 and add the prefix for good topic hierarchy. 
+s they can keep the naming convention of <'MAC ADDRESS'>_broker. Then we want to communicate to our EC2 instance so we write the ip followed by the port number. WARNING: this is an insecure port, and this project will not go over how to secure it. By default, mqtt uses 1883 so we must remeber to use this port for communication. We must map the topic `news` to outward connections only with qos 1 and add the prefix for good topic hierarchy. Run `sudo service mosquitto restart ` so that the changes take effect. 
 
 In order to finish the bridge we have to open the port on our EC2 instance. Head back to the AWS console and EC2 and find security groups (next to Elastic IPs). If there isn't one attached to your instance yet, make one. We want to edit the inbound rules, select add rule and enter:
 ```
