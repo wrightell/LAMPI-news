@@ -1,0 +1,449 @@
+2024-05-02 18:27:35,544:INFO:Connected with result code 0
+2024-05-02 18:27:50,265:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 18:27:50,274:INFO:News item created with title: Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide
+2024-05-02 18:29:49,195:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 18:29:49,200:INFO:News item created with title: Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide
+2024-05-02 18:31:40,958:INFO:Connected with result code 0
+2024-05-02 18:31:53,114:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 18:31:53,124:INFO:News item created with title: Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide
+2024-05-02 18:31:56,206:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 18:31:56,212:INFO:News item created with title: Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide
+2024-05-02 18:33:47,805:INFO:Connected with result code 0
+2024-05-02 18:34:08,668:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 18:37:36,998:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "After the 2016 Election, Porn Star\\u2019s Lawyer Lamented a Hush-Money Deal", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-trial-keith-davidson-stormy-daniels-hush-money.html"}'
+2024-05-02 18:39:50,883:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "In an Online World, a New Generation of Protesters Chooses Anonymity", "url": "https://www.nytimes.com/2024/05/02/nyregion/college-campus-protests-anonymity.html"}'
+2024-05-02 18:49:17,742:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Strongest U.S. Challenge to Big Tech\\u2019s Power Nears Climax in Google Trial", "url": "https://www.nytimes.com/2024/05/02/technology/google-antitrust-trial-closing-arguments.html"}'
+2024-05-02 18:49:26,790:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "In an Online World, a New Generation of Protesters Chooses Anonymity", "url": "https://www.nytimes.com/2024/05/02/nyregion/college-campus-protests-anonymity.html"}'
+2024-05-02 18:50:39,747:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "In an Online World, a New Generation of Protesters Chooses Anonymity", "url": "https://www.nytimes.com/2024/05/02/nyregion/college-campus-protests-anonymity.html"}'
+2024-05-02 18:50:46,592:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Before the Violence, U.C.L.A. Thought a Tolerant Approach Would Work", "url": "https://www.nytimes.com/2024/05/01/us/ucla-classes-protests.html"}'
+2024-05-02 18:51:18,602:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 18:51:57,139:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 18:54:52,004:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 18:55:51,790:INFO:Message received-> devices/test/news/: b'{"title": "Test News", "url": "http://example.com"}'
+2024-05-02 18:57:45,637:INFO:Message received-> devices/test/news/: b'{"title": "Test News1", "url": "http://example.com1"}'
+2024-05-02 19:00:03,767:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 19:00:17,019:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "They Used to Award Olympic Medals for Art?", "url": "https://www.nytimes.com/2024/05/02/us/paris-olympics-arts-medals.html"}'
+2024-05-02 19:04:33,320:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Judge Deciding Google\\u2019s Fate", "url": "https://www.nytimes.com/2024/05/02/business/judge-mehta-google-antitrust.html"}'
+2024-05-02 19:04:42,918:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 19:06:02,504:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Can a \\u2018Not Charlotte\\u2019 Recipe Revive a Region?", "url": "https://www.nytimes.com/2024/05/02/business/economy/north-carolina-triad-economy.html"}'
+2024-05-02 19:13:25,744:INFO:Connected with result code 0
+2024-05-02 19:13:36,083:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Fed Is Eyeing the Job Market, but It\\u2019s Difficult to Read", "url": "https://www.nytimes.com/2024/05/02/business/economy/the-fed-job-market.html"}'
+2024-05-02 19:13:36,102:INFO:News item created with title: The Fed Is Eyeing the Job Market, but It’s Difficult to Read
+2024-05-02 19:13:57,514:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "They Used to Award Olympic Medals for Art?", "url": "https://www.nytimes.com/2024/05/02/us/paris-olympics-arts-medals.html"}'
+2024-05-02 19:13:57,519:INFO:News item created with title: They Used to Award Olympic Medals for Art?
+2024-05-02 19:14:21,405:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Will Never Forget Any of It\\u2019: Brittney Griner Is Ready to Talk", "url": "https://www.nytimes.com/2024/05/02/magazine/brittney-griner-book-russia-interview.html"}'
+2024-05-02 19:14:21,412:INFO:News item created with title: ‘I Will Never Forget Any of It’: Brittney Griner Is Ready to Talk
+2024-05-02 19:15:36,380:INFO:Connected with result code 0
+2024-05-02 19:16:08,220:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 19:16:08,220:INFO:Attempting to decode payload
+2024-05-02 19:16:08,220:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:16:08,220:INFO:Decoded payload: {"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}
+2024-05-02 19:16:08,220:INFO:JSON loaded successfully
+2024-05-02 19:16:08,231:INFO:News item created with title: Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide
+2024-05-02 19:16:21,191:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Katt Williams Wants to Show You the Receipts", "url": "https://www.nytimes.com/2024/05/02/arts/television/katt-williams-comedy-netflix-woke-foke.html"}'
+2024-05-02 19:16:21,191:INFO:Attempting to decode payload
+2024-05-02 19:16:21,191:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:16:21,191:INFO:Decoded payload: {"title": "Katt Williams Wants to Show You the Receipts", "url": "https://www.nytimes.com/2024/05/02/arts/television/katt-williams-comedy-netflix-woke-foke.html"}
+2024-05-02 19:16:21,191:INFO:JSON loaded successfully
+2024-05-02 19:16:21,197:INFO:News item created with title: Katt Williams Wants to Show You the Receipts
+2024-05-02 19:16:55,906:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "What Is a Song?", "url": "https://www.nytimes.com/2024/05/02/arts/music/song-copyright-sheet-music-ed-sheeran-marvin-gaye.html"}'
+2024-05-02 19:16:55,906:INFO:Attempting to decode payload
+2024-05-02 19:16:55,906:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:16:55,906:INFO:Decoded payload: {"title": "What Is a Song?", "url": "https://www.nytimes.com/2024/05/02/arts/music/song-copyright-sheet-music-ed-sheeran-marvin-gaye.html"}
+2024-05-02 19:16:55,906:INFO:JSON loaded successfully
+2024-05-02 19:16:55,912:INFO:News item created with title: What Is a Song?
+2024-05-02 19:17:22,353:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Voice of a Hundred Faces: Dee Bradley Baker\\u2019s \\u2018Star Wars\\u2019 Journey", "url": "https://www.nytimes.com/2024/05/02/arts/television/star-wars-the-bad-batch.html"}'
+2024-05-02 19:17:22,354:INFO:Attempting to decode payload
+2024-05-02 19:17:22,354:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:17:22,354:INFO:Decoded payload: {"title": "The Voice of a Hundred Faces: Dee Bradley Baker\u2019s \u2018Star Wars\u2019 Journey", "url": "https://www.nytimes.com/2024/05/02/arts/television/star-wars-the-bad-batch.html"}
+2024-05-02 19:17:22,354:INFO:JSON loaded successfully
+2024-05-02 19:17:22,360:INFO:News item created with title: The Voice of a Hundred Faces: Dee Bradley Baker’s ‘Star Wars’ Journey
+2024-05-02 19:17:39,666:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Review: A Conductor Surprises by Embracing the Ordinary", "url": "https://www.nytimes.com/2024/05/02/arts/music/esa-pekka-salonen-new-york-philharmonic.html"}'
+2024-05-02 19:17:39,667:INFO:Attempting to decode payload
+2024-05-02 19:17:39,667:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:17:39,667:INFO:Decoded payload: {"title": "Review: A Conductor Surprises by Embracing the Ordinary", "url": "https://www.nytimes.com/2024/05/02/arts/music/esa-pekka-salonen-new-york-philharmonic.html"}
+2024-05-02 19:17:39,668:INFO:JSON loaded successfully
+2024-05-02 19:17:39,673:INFO:News item created with title: Review: A Conductor Surprises by Embracing the Ordinary
+2024-05-02 19:21:54,646:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "A \\u2018Skate Migration\\u2019 Is Changing How Atlanta Rolls", "url": "https://www.nytimes.com/2024/05/02/arts/dance/atlanta-roller-skating.html"}'
+2024-05-02 19:21:54,646:INFO:Attempting to decode payload
+2024-05-02 19:21:54,646:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:21:54,646:INFO:Decoded payload: {"title": "A \u2018Skate Migration\u2019 Is Changing How Atlanta Rolls", "url": "https://www.nytimes.com/2024/05/02/arts/dance/atlanta-roller-skating.html"}
+2024-05-02 19:21:54,646:INFO:JSON loaded successfully
+2024-05-02 19:21:54,655:INFO:News item created with title: A ‘Skate Migration’ Is Changing How Atlanta Rolls
+2024-05-02 19:22:04,156:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}'
+2024-05-02 19:22:04,157:INFO:Attempting to decode payload
+2024-05-02 19:22:04,157:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:22:04,157:INFO:Decoded payload: {"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}
+2024-05-02 19:22:04,157:INFO:JSON loaded successfully
+2024-05-02 19:22:04,165:INFO:News item created with title: Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum
+2024-05-02 19:22:10,851:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "What to Watch This Weekend: A Supernatural Dramedy", "url": "https://www.nytimes.com/2024/05/02/arts/television/big-door-prize.html"}'
+2024-05-02 19:22:10,852:INFO:Attempting to decode payload
+2024-05-02 19:22:10,852:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:22:10,852:INFO:Decoded payload: {"title": "What to Watch This Weekend: A Supernatural Dramedy", "url": "https://www.nytimes.com/2024/05/02/arts/television/big-door-prize.html"}
+2024-05-02 19:22:10,852:INFO:JSON loaded successfully
+2024-05-02 19:22:10,857:INFO:News item created with title: What to Watch This Weekend: A Supernatural Dramedy
+2024-05-02 19:24:36,009:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "36 Hours in Minneapolis", "url": "https://www.nytimes.com/interactive/2024/05/02/travel/things-to-do-minneapolis.html"}'
+2024-05-02 19:24:36,010:INFO:Attempting to decode payload
+2024-05-02 19:24:36,010:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:24:36,010:INFO:Decoded payload: {"title": "36 Hours in Minneapolis", "url": "https://www.nytimes.com/interactive/2024/05/02/travel/things-to-do-minneapolis.html"}
+2024-05-02 19:24:36,010:INFO:JSON loaded successfully
+2024-05-02 19:24:36,015:INFO:News item created with title: 36 Hours in Minneapolis
+2024-05-02 19:24:43,079:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Esther, a New Art Fair With Northern European Style", "url": "https://www.nytimes.com/2024/05/02/arts/design/esther-art-fair-estonia-new-york.html"}'
+2024-05-02 19:24:43,079:INFO:Attempting to decode payload
+2024-05-02 19:24:43,079:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:24:43,079:INFO:Decoded payload: {"title": "Esther, a New Art Fair With Northern European Style", "url": "https://www.nytimes.com/2024/05/02/arts/design/esther-art-fair-estonia-new-york.html"}
+2024-05-02 19:24:43,079:INFO:JSON loaded successfully
+2024-05-02 19:24:43,088:INFO:News item created with title: Esther, a New Art Fair With Northern European Style
+2024-05-02 19:24:49,958:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018I Saw the TV Glow\\u2019 Review: How We Used to Escape", "url": "https://www.nytimes.com/2024/05/02/movies/i-saw-the-tv-glow-review.html"}'
+2024-05-02 19:24:49,958:INFO:Attempting to decode payload
+2024-05-02 19:24:49,958:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:24:49,958:INFO:Decoded payload: {"title": "\u2018I Saw the TV Glow\u2019 Review: How We Used to Escape", "url": "https://www.nytimes.com/2024/05/02/movies/i-saw-the-tv-glow-review.html"}
+2024-05-02 19:24:49,958:INFO:JSON loaded successfully
+2024-05-02 19:24:49,964:INFO:News item created with title: ‘I Saw the TV Glow’ Review: How We Used to Escape
+2024-05-02 19:26:06,517:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 19:26:06,517:INFO:Attempting to decode payload
+2024-05-02 19:26:06,517:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:26:06,517:INFO:Decoded payload: {"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}
+2024-05-02 19:26:06,517:INFO:JSON loaded successfully
+2024-05-02 19:26:06,522:INFO:News item created with title: Tesla Fires Many on Charger Team, Raising Doubts About Expansion
+2024-05-02 19:26:15,175:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)", "url": "https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html"}'
+2024-05-02 19:26:15,175:INFO:Attempting to decode payload
+2024-05-02 19:26:15,175:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:26:15,175:INFO:Decoded payload: {"title": "How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)", "url": "https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html"}
+2024-05-02 19:26:15,175:INFO:JSON loaded successfully
+2024-05-02 19:26:15,181:INFO:News item created with title: How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)
+2024-05-02 19:26:24,353:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Alpine Is Trying, It Really Is, to Win in Formula 1", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-alpine.html"}'
+2024-05-02 19:26:24,353:INFO:Attempting to decode payload
+2024-05-02 19:26:24,353:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:26:24,353:INFO:Decoded payload: {"title": "Alpine Is Trying, It Really Is, to Win in Formula 1", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-alpine.html"}
+2024-05-02 19:26:24,353:INFO:JSON loaded successfully
+2024-05-02 19:26:24,359:INFO:News item created with title: Alpine Is Trying, It Really Is, to Win in Formula 1
+2024-05-02 19:31:05,948:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Andrettis Keep Fighting to Enter F1", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-andretti.html"}'
+2024-05-02 19:31:05,949:INFO:Attempting to decode payload
+2024-05-02 19:31:05,949:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:31:05,949:INFO:Decoded payload: {"title": "Andrettis Keep Fighting to Enter F1", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-andretti.html"}
+2024-05-02 19:31:05,949:INFO:JSON loaded successfully
+2024-05-02 19:31:05,955:INFO:News item created with title: Andrettis Keep Fighting to Enter F1
+2024-05-02 19:31:14,238:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Honda Commits to E.V.s With Big Investment in Canada", "url": "https://www.nytimes.com/2024/04/25/business/honda-electric-vehicles-canada.html"}'
+2024-05-02 19:31:14,238:INFO:Attempting to decode payload
+2024-05-02 19:31:14,238:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:31:14,238:INFO:Decoded payload: {"title": "Honda Commits to E.V.s With Big Investment in Canada", "url": "https://www.nytimes.com/2024/04/25/business/honda-electric-vehicles-canada.html"}
+2024-05-02 19:31:14,238:INFO:JSON loaded successfully
+2024-05-02 19:31:14,243:INFO:News item created with title: Honda Commits to E.V.s With Big Investment in Canada
+2024-05-02 19:31:38,241:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Honda Commits to E.V.s With Big Investment in Canada", "url": "https://www.nytimes.com/2024/04/25/business/honda-electric-vehicles-canada.html"}'
+2024-05-02 19:31:38,242:INFO:Attempting to decode payload
+2024-05-02 19:31:38,242:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:31:38,242:INFO:Decoded payload: {"title": "Honda Commits to E.V.s With Big Investment in Canada", "url": "https://www.nytimes.com/2024/04/25/business/honda-electric-vehicles-canada.html"}
+2024-05-02 19:31:38,242:INFO:JSON loaded successfully
+2024-05-02 19:31:38,248:INFO:News item created with title: Honda Commits to E.V.s With Big Investment in Canada
+2024-05-02 19:32:01,226:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Man Who Never Says No to Zendaya", "url": "https://www.nytimes.com/2024/05/02/style/law-roach-zendaya-met-gala.html"}'
+2024-05-02 19:32:01,226:INFO:Attempting to decode payload
+2024-05-02 19:32:01,226:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:32:01,226:INFO:Decoded payload: {"title": "The Man Who Never Says No to Zendaya", "url": "https://www.nytimes.com/2024/05/02/style/law-roach-zendaya-met-gala.html"}
+2024-05-02 19:32:01,226:INFO:JSON loaded successfully
+2024-05-02 19:32:01,235:INFO:News item created with title: The Man Who Never Says No to Zendaya
+2024-05-02 19:32:25,750:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Orangutan, Heal Thyself", "url": "https://www.nytimes.com/2024/05/02/science/orangutan-wound-plant-treatment.html"}'
+2024-05-02 19:32:25,750:INFO:Attempting to decode payload
+2024-05-02 19:32:25,750:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:32:25,750:INFO:Decoded payload: {"title": "Orangutan, Heal Thyself", "url": "https://www.nytimes.com/2024/05/02/science/orangutan-wound-plant-treatment.html"}
+2024-05-02 19:32:25,750:INFO:JSON loaded successfully
+2024-05-02 19:32:25,756:INFO:News item created with title: Orangutan, Heal Thyself
+2024-05-02 19:32:36,006:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "An Intimate Look at Modern Love and Marriage", "url": "https://www.nytimes.com/2024/04/30/insider/sexless-marriage.html"}'
+2024-05-02 19:32:36,006:INFO:Attempting to decode payload
+2024-05-02 19:32:36,006:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:32:36,006:INFO:Decoded payload: {"title": "An Intimate Look at Modern Love and Marriage", "url": "https://www.nytimes.com/2024/04/30/insider/sexless-marriage.html"}
+2024-05-02 19:32:36,006:INFO:JSON loaded successfully
+2024-05-02 19:32:36,011:INFO:News item created with title: An Intimate Look at Modern Love and Marriage
+2024-05-02 19:33:09,634:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "An Intimate Look at Modern Love and Marriage", "url": "https://www.nytimes.com/2024/04/30/insider/sexless-marriage.html"}'
+2024-05-02 19:33:09,636:INFO:Attempting to decode payload
+2024-05-02 19:33:09,636:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:33:09,636:INFO:Decoded payload: {"title": "An Intimate Look at Modern Love and Marriage", "url": "https://www.nytimes.com/2024/04/30/insider/sexless-marriage.html"}
+2024-05-02 19:33:09,636:INFO:JSON loaded successfully
+2024-05-02 19:33:09,642:INFO:News item created with title: An Intimate Look at Modern Love and Marriage
+2024-05-02 19:33:14,716:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Even Celebrities Don\\u2019t Know How to Ask Their Friends About Ozempic", "url": "https://www.nytimes.com/2024/04/30/style/ozempic-barbra-streisand-melissa-mccarthy.html"}'
+2024-05-02 19:33:14,716:INFO:Attempting to decode payload
+2024-05-02 19:33:14,716:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:33:14,716:INFO:Decoded payload: {"title": "Even Celebrities Don\u2019t Know How to Ask Their Friends About Ozempic", "url": "https://www.nytimes.com/2024/04/30/style/ozempic-barbra-streisand-melissa-mccarthy.html"}
+2024-05-02 19:33:14,716:INFO:JSON loaded successfully
+2024-05-02 19:33:14,722:INFO:News item created with title: Even Celebrities Don’t Know How to Ask Their Friends About Ozempic
+2024-05-02 19:33:20,392:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81", "url": "https://www.nytimes.com/2024/05/02/health/robert-b-oxnam-dead.html"}'
+2024-05-02 19:33:20,393:INFO:Attempting to decode payload
+2024-05-02 19:33:20,393:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:33:20,393:INFO:Decoded payload: {"title": "Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81", "url": "https://www.nytimes.com/2024/05/02/health/robert-b-oxnam-dead.html"}
+2024-05-02 19:33:20,393:INFO:JSON loaded successfully
+2024-05-02 19:33:20,398:INFO:News item created with title: Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81
+2024-05-02 19:35:49,983:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Florida\\u2019s Abortion Ban Will Reach Well Beyond Florida", "url": "https://www.nytimes.com/interactive/2024/05/01/upshot/florida-abortion-ban.html"}'
+2024-05-02 19:35:49,985:INFO:Attempting to decode payload
+2024-05-02 19:35:49,985:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:35:49,985:INFO:Decoded payload: {"title": "Florida\u2019s Abortion Ban Will Reach Well Beyond Florida", "url": "https://www.nytimes.com/interactive/2024/05/01/upshot/florida-abortion-ban.html"}
+2024-05-02 19:35:49,985:INFO:JSON loaded successfully
+2024-05-02 19:35:49,990:INFO:News item created with title: Florida’s Abortion Ban Will Reach Well Beyond Florida
+2024-05-02 19:36:02,283:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Should I Lie So That My Cousin Can Have a Catholic Wedding?", "url": "https://www.nytimes.com/2024/05/01/magazine/catholic-cousin-annulment-ethics.html"}'
+2024-05-02 19:36:02,283:INFO:Attempting to decode payload
+2024-05-02 19:36:02,283:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:02,283:INFO:Decoded payload: {"title": "Should I Lie So That My Cousin Can Have a Catholic Wedding?", "url": "https://www.nytimes.com/2024/05/01/magazine/catholic-cousin-annulment-ethics.html"}
+2024-05-02 19:36:02,283:INFO:JSON loaded successfully
+2024-05-02 19:36:02,288:INFO:News item created with title: Should I Lie So That My Cousin Can Have a Catholic Wedding?
+2024-05-02 19:36:09,727:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Let This Breakfast Change Your Life", "url": "https://www.nytimes.com/2024/04/24/magazine/japanese-breakfast-miso-salmon-recipe.html"}'
+2024-05-02 19:36:09,727:INFO:Attempting to decode payload
+2024-05-02 19:36:09,727:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:09,727:INFO:Decoded payload: {"title": "Let This Breakfast Change Your Life", "url": "https://www.nytimes.com/2024/04/24/magazine/japanese-breakfast-miso-salmon-recipe.html"}
+2024-05-02 19:36:09,727:INFO:JSON loaded successfully
+2024-05-02 19:36:09,733:INFO:News item created with title: Let This Breakfast Change Your Life
+2024-05-02 19:36:29,375:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "I\\u2019m Pregnant, and My Husband Says We Can\\u2019t Tell Anyone About the Donor Egg", "url": "https://www.nytimes.com/2024/04/19/magazine/donor-egg-secrecy-ethics.html"}'
+2024-05-02 19:36:29,375:INFO:Attempting to decode payload
+2024-05-02 19:36:29,375:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:29,375:INFO:Decoded payload: {"title": "I\u2019m Pregnant, and My Husband Says We Can\u2019t Tell Anyone About the Donor Egg", "url": "https://www.nytimes.com/2024/04/19/magazine/donor-egg-secrecy-ethics.html"}
+2024-05-02 19:36:29,375:INFO:JSON loaded successfully
+2024-05-02 19:36:29,382:INFO:News item created with title: I’m Pregnant, and My Husband Says We Can’t Tell Anyone About the Donor Egg
+2024-05-02 19:36:39,377:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "How Do We Know What Animals Are Really Feeling?", "url": "https://www.nytimes.com/2024/04/23/magazine/animals-welfare-science.html"}'
+2024-05-02 19:36:39,378:INFO:Attempting to decode payload
+2024-05-02 19:36:39,378:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:39,378:INFO:Decoded payload: {"title": "How Do We Know What Animals Are Really Feeling?", "url": "https://www.nytimes.com/2024/04/23/magazine/animals-welfare-science.html"}
+2024-05-02 19:36:39,378:INFO:JSON loaded successfully
+2024-05-02 19:36:39,383:INFO:News item created with title: How Do We Know What Animals Are Really Feeling?
+2024-05-02 19:36:46,465:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "My Boyfriend Said He\\u2019d Save Our Cat but Not a Stranger if Both Were Drowning", "url": "https://www.nytimes.com/2024/04/17/magazine/human-pet-life-ethics.html"}'
+2024-05-02 19:36:46,466:INFO:Attempting to decode payload
+2024-05-02 19:36:46,466:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:46,466:INFO:Decoded payload: {"title": "My Boyfriend Said He\u2019d Save Our Cat but Not a Stranger if Both Were Drowning", "url": "https://www.nytimes.com/2024/04/17/magazine/human-pet-life-ethics.html"}
+2024-05-02 19:36:46,466:INFO:JSON loaded successfully
+2024-05-02 19:36:46,472:INFO:News item created with title: My Boyfriend Said He’d Save Our Cat but Not a Stranger if Both Were Drowning
+2024-05-02 19:36:57,577:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Time Is Running Out for Rahul Gandhi\\u2019s Vision for India", "url": "https://www.nytimes.com/2024/04/20/magazine/rahul-gandhi-india-election-bjp.html"}'
+2024-05-02 19:36:57,577:INFO:Attempting to decode payload
+2024-05-02 19:36:57,577:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:36:57,577:INFO:Decoded payload: {"title": "Time Is Running Out for Rahul Gandhi\u2019s Vision for India", "url": "https://www.nytimes.com/2024/04/20/magazine/rahul-gandhi-india-election-bjp.html"}
+2024-05-02 19:36:57,577:INFO:JSON loaded successfully
+2024-05-02 19:36:57,583:INFO:News item created with title: Time Is Running Out for Rahul Gandhi’s Vision for India
+2024-05-02 19:37:10,983:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Mixed Martial Artist Who Became the King of Tidy Eating", "url": "https://www.nytimes.com/2024/04/25/magazine/keith-lee-food-review-tiktok.html"}'
+2024-05-02 19:37:10,983:INFO:Attempting to decode payload
+2024-05-02 19:37:10,983:INFO:Payload type: <class 'bytes'>
+2024-05-02 19:37:10,983:INFO:Decoded payload: {"title": "The Mixed Martial Artist Who Became the King of Tidy Eating", "url": "https://www.nytimes.com/2024/04/25/magazine/keith-lee-food-review-tiktok.html"}
+2024-05-02 19:37:10,983:INFO:JSON loaded successfully
+2024-05-02 19:37:10,988:INFO:News item created with title: The Mixed Martial Artist Who Became the King of Tidy Eating
+2024-05-02 20:04:01,506:INFO:Connected with result code 0
+2024-05-02 20:07:53,778:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Former Pennsylvania Nurse Gets Life Sentence in Insulin Deaths", "url": "https://www.nytimes.com/2024/05/02/us/pennsylvania-nurse-insulin-pleads-guilty.html"}'
+2024-05-02 20:07:53,778:INFO:Attempting to decode payload
+2024-05-02 20:07:53,778:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:07:53,778:INFO:Decoded payload: {"title": "Former Pennsylvania Nurse Gets Life Sentence in Insulin Deaths", "url": "https://www.nytimes.com/2024/05/02/us/pennsylvania-nurse-insulin-pleads-guilty.html"}
+2024-05-02 20:07:53,778:INFO:JSON loaded successfully
+2024-05-02 20:07:53,786:INFO:News item created with title: Former Pennsylvania Nurse Gets Life Sentence in Insulin Deaths
+2024-05-02 20:09:09,047:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Larry Young, Who Studied the Chemistry of Love, Dies at 56", "url": "https://www.nytimes.com/2024/05/02/science/larry-young-dead.html"}'
+2024-05-02 20:09:09,049:INFO:Attempting to decode payload
+2024-05-02 20:09:09,049:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:09:09,049:INFO:Decoded payload: {"title": "Larry Young, Who Studied the Chemistry of Love, Dies at 56", "url": "https://www.nytimes.com/2024/05/02/science/larry-young-dead.html"}
+2024-05-02 20:09:09,049:INFO:JSON loaded successfully
+2024-05-02 20:09:09,057:INFO:News item created with title: Larry Young, Who Studied the Chemistry of Love, Dies at 56
+2024-05-02 20:15:52,358:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Flooding in East Texas Leads to Evacuations; More Rain Is Expected", "url": "https://www.nytimes.com/2024/05/02/us/texas-rain-flooding-polk-county-houston.html"}'
+2024-05-02 20:15:52,365:INFO:Attempting to decode payload
+2024-05-02 20:15:52,365:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:15:52,365:INFO:Decoded payload: {"title": "Flooding in East Texas Leads to Evacuations; More Rain Is Expected", "url": "https://www.nytimes.com/2024/05/02/us/texas-rain-flooding-polk-county-houston.html"}
+2024-05-02 20:15:52,365:INFO:JSON loaded successfully
+2024-05-02 20:15:52,371:INFO:News item created with title: Flooding in East Texas Leads to Evacuations; More Rain Is Expected
+2024-05-02 20:16:10,263:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}'
+2024-05-02 20:16:10,263:INFO:Attempting to decode payload
+2024-05-02 20:16:10,263:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:16:10,263:INFO:Decoded payload: {"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}
+2024-05-02 20:16:10,263:INFO:JSON loaded successfully
+2024-05-02 20:16:10,268:INFO:News item created with title: Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum
+2024-05-02 20:29:37,445:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}'
+2024-05-02 20:29:37,447:INFO:Attempting to decode payload
+2024-05-02 20:29:37,447:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:29:37,447:INFO:Decoded payload: {"title": "Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum", "url": "https://www.nytimes.com/2024/05/02/arts/design/getty-museum-bronze-greek-statue.html"}
+2024-05-02 20:29:37,447:INFO:JSON loaded successfully
+2024-05-02 20:29:37,454:INFO:News item created with title: Court Says Italy Is Rightful Owner of Bronze Held by Getty Museum
+2024-05-02 20:30:16,762:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Making flying cleaner", "url": "https://www.nytimes.com/2024/05/02/climate/jet-fuel-ethanol-flying.html"}'
+2024-05-02 20:30:16,763:INFO:Attempting to decode payload
+2024-05-02 20:30:16,763:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:30:16,763:INFO:Decoded payload: {"title": "Making flying cleaner", "url": "https://www.nytimes.com/2024/05/02/climate/jet-fuel-ethanol-flying.html"}
+2024-05-02 20:30:16,763:INFO:JSON loaded successfully
+2024-05-02 20:30:16,770:INFO:News item created with title: Making flying cleaner
+2024-05-02 20:30:39,829:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Making flying cleaner", "url": "https://www.nytimes.com/2024/05/02/climate/jet-fuel-ethanol-flying.html"}'
+2024-05-02 20:30:39,829:INFO:Attempting to decode payload
+2024-05-02 20:30:39,829:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:30:39,829:INFO:Decoded payload: {"title": "Making flying cleaner", "url": "https://www.nytimes.com/2024/05/02/climate/jet-fuel-ethanol-flying.html"}
+2024-05-02 20:30:39,829:INFO:JSON loaded successfully
+2024-05-02 20:30:39,835:INFO:News item created with title: Making flying cleaner
+2024-05-02 20:33:07,884:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Trump\\u2019s Contempt for His Court Is So Pervasive It Has Become Routine", "url": "https://www.nytimes.com/2024/05/01/opinion/trump-trial-contempt.html"}'
+2024-05-02 20:33:07,886:INFO:Attempting to decode payload
+2024-05-02 20:33:07,886:INFO:Payload type: <class 'bytes'>
+2024-05-02 20:33:07,886:INFO:Decoded payload: {"title": "Trump\u2019s Contempt for His Court Is So Pervasive It Has Become Routine", "url": "https://www.nytimes.com/2024/05/01/opinion/trump-trial-contempt.html"}
+2024-05-02 20:33:07,886:INFO:JSON loaded successfully
+2024-05-02 20:33:07,894:INFO:News item created with title: Trump’s Contempt for His Court Is So Pervasive It Has Become Routine
+2024-05-02 20:41:34,861:INFO:Connected with result code 0
+2024-05-02 20:42:09,011:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81", "url": "https://www.nytimes.com/2024/05/02/health/robert-b-oxnam-dead.html"}'
+2024-05-02 20:42:09,012:INFO:JSON loaded successfully
+2024-05-02 20:42:09,025:INFO:News item created and published with ID: a3gOT6d3tHRuPfPzd8U21NLzKBdWJWq4
+2024-05-02 20:42:56,066:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018Baby Reindeer\\u2019: What to Know About the True-ish Netflix Hit", "url": "https://www.nytimes.com/2024/05/02/arts/television/baby-reindeer-true-story.html"}'
+2024-05-02 20:42:56,066:INFO:JSON loaded successfully
+2024-05-02 20:42:56,073:INFO:News item created and published with ID: rsSFz80vhCCL7E0PrETiPlZNDb94t4Cc
+2024-05-02 20:43:03,607:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Miami Grand Prix Matures", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-miami-grand-prix-matures.html"}'
+2024-05-02 20:43:03,607:INFO:JSON loaded successfully
+2024-05-02 20:43:03,613:INFO:News item created and published with ID: bu2SM4RU3dB4jZj4Fxpjw3HMNTOeMMvU
+2024-05-02 20:43:16,355:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 20:43:16,355:INFO:JSON loaded successfully
+2024-05-02 20:43:16,361:INFO:News item created and published with ID: PfQdNCLLjVpfzGL3K3iUh7dX4uwGn9YW
+2024-05-02 20:43:36,356:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "An Artist From Kosovo Takes Flight", "url": "https://www.nytimes.com/2024/05/02/arts/design/petrit-halilaj-kosovo-met-roof.html"}'
+2024-05-02 20:43:36,357:INFO:JSON loaded successfully
+2024-05-02 20:43:36,365:INFO:News item created and published with ID: Yg2WaRjwPaqh8Gwkuvs4Tm4TiLfJq9Rm
+2024-05-02 20:45:37,421:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u00bfPor qu\\u00e9 \\u2018Baby Reindeer\\u2019 es un \\u00e9xito? La clave est\\u00e1 en el final", "url": "https://www.nytimes.com/es/2024/05/02/espanol/baby-reindeer-netflix-final.html"}'
+2024-05-02 20:45:37,422:INFO:JSON loaded successfully
+2024-05-02 20:45:37,428:INFO:News item created and published with ID: IJ6fIlBludEdVTxWWsLDqBPIw3ZvjIlw
+2024-05-02 20:46:52,977:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Orangutan, Heal Thyself", "url": "https://www.nytimes.com/2024/05/02/science/orangutan-wound-plant-treatment.html"}'
+2024-05-02 20:46:52,978:INFO:JSON loaded successfully
+2024-05-02 20:46:52,983:INFO:News item created and published with ID: Xl2EXCO7ArY1jnvuQDfvU1Tyb7QWzTUk
+2024-05-02 20:48:08,328:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Orangutan, Heal Thyself", "url": "https://www.nytimes.com/2024/05/02/science/orangutan-wound-plant-treatment.html"}'
+2024-05-02 20:48:08,329:INFO:JSON loaded successfully
+2024-05-02 20:48:08,335:INFO:News item created and published with ID: Vmx70kCBb1Lin4Yyn0AVI6bv9Gmb76Fh
+2024-05-02 20:48:14,973:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Florida\\u2019s Abortion Ban Will Reach Well Beyond Florida", "url": "https://www.nytimes.com/interactive/2024/05/01/upshot/florida-abortion-ban.html"}'
+2024-05-02 20:48:14,973:INFO:JSON loaded successfully
+2024-05-02 20:48:14,978:INFO:News item created and published with ID: WFevFaMg4um84Jjb7DoNOW3Isp6z2XyT
+2024-05-02 20:48:24,762:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Andrettis Keep Fighting to Enter F1", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-andretti.html"}'
+2024-05-02 20:48:24,762:INFO:JSON loaded successfully
+2024-05-02 20:48:24,768:INFO:News item created and published with ID: ZTcr3DjS74FGCKPVWVUaKZ2wlsMouu07
+2024-05-02 20:48:51,209:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 20:48:51,209:INFO:JSON loaded successfully
+2024-05-02 20:48:51,216:INFO:News item created and published with ID: JzJp8pvEb12B8xVXXSzUZu3tdl1Oa0Pc
+2024-05-02 20:49:54,903:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 20:49:54,904:INFO:JSON loaded successfully
+2024-05-02 20:49:54,911:INFO:News item created and published with ID: RtE2zkKcoWrt1yxS98lkZubbtzNNZHA3
+2024-05-02 20:49:57,784:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 20:49:57,784:INFO:JSON loaded successfully
+2024-05-02 20:49:57,790:INFO:News item created and published with ID: cG2ioFfvOG40dzBjY95Ld2ejfUVzSWoB
+2024-05-02 20:49:59,178:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 20:49:59,178:INFO:JSON loaded successfully
+2024-05-02 20:49:59,184:INFO:News item created and published with ID: V8tIwx5vDK9mi1YxGlMDmkgrXLg9XhQh
+2024-05-02 20:53:55,441:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Reaches Deals in China on Self-Driving Cars", "url": "https://www.nytimes.com/2024/04/29/business/elon-musk-tesla-china-full-self-driving.html"}'
+2024-05-02 20:53:55,441:INFO:JSON loaded successfully
+2024-05-02 20:53:55,450:INFO:News item created and published with ID: WI6oH7L9vIHeOJYrv91VvxX2k1eTCjos
+2024-05-02 20:54:19,301:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Reaches Deals in China on Self-Driving Cars", "url": "https://www.nytimes.com/2024/04/29/business/elon-musk-tesla-china-full-self-driving.html"}'
+2024-05-02 20:54:19,301:INFO:JSON loaded successfully
+2024-05-02 20:54:19,307:INFO:News item created and published with ID: rLl4yyE77nb1aM9tQcV8j88YZ8wnfreM
+2024-05-02 20:57:20,616:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Reaches Deals in China on Self-Driving Cars", "url": "https://www.nytimes.com/2024/04/29/business/elon-musk-tesla-china-full-self-driving.html"}'
+2024-05-02 20:57:20,616:INFO:JSON loaded successfully
+2024-05-02 20:57:20,622:INFO:News item created and published with ID: nueH8dO3hGmpHZCm7fW5Tp7dpEDg77lG
+2024-05-02 21:02:11,561:INFO:Connected with result code 0
+2024-05-02 21:02:42,452:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "China\\u2019s Electric Cars Keep Improving, a Worry for Rivals Elsewhere", "url": "https://www.nytimes.com/2024/05/01/business/china-electric-vehicles.html"}'
+2024-05-02 21:02:42,453:INFO:JSON loaded successfully
+2024-05-02 21:02:42,463:INFO:News item created with ID: 64
+2024-05-02 21:02:57,527:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Miami Grand Prix Matures", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-miami-grand-prix-matures.html"}'
+2024-05-02 21:02:57,527:INFO:JSON loaded successfully
+2024-05-02 21:02:57,534:INFO:News item created with ID: 65
+2024-05-02 21:03:19,006:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Miami Grand Prix Matures", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-miami-grand-prix-matures.html"}'
+2024-05-02 21:03:19,006:INFO:JSON loaded successfully
+2024-05-02 21:03:19,013:INFO:News item created with ID: 66
+2024-05-02 21:03:48,611:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Miami Grand Prix Matures", "url": "https://www.nytimes.com/2024/05/02/sports/autoracing/f1-miami-grand-prix-matures.html"}'
+2024-05-02 21:03:48,612:INFO:JSON loaded successfully
+2024-05-02 21:03:48,617:INFO:News item created with ID: 67
+2024-05-02 21:03:55,387:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 21:03:55,388:INFO:JSON loaded successfully
+2024-05-02 21:03:55,393:INFO:News item created with ID: 68
+2024-05-02 21:04:06,132:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 21:04:06,133:INFO:JSON loaded successfully
+2024-05-02 21:04:06,138:INFO:News item created with ID: 69
+2024-05-02 21:04:12,189:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion", "url": "https://www.nytimes.com/2024/04/30/business/tesla-layoffs-supercharger-team.html"}'
+2024-05-02 21:04:12,190:INFO:JSON loaded successfully
+2024-05-02 21:04:12,195:INFO:News item created with ID: 70
+2024-05-02 21:05:35,171:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-02 21:05:35,171:INFO:JSON loaded successfully
+2024-05-02 21:05:35,176:INFO:News item created with ID: 71
+2024-05-02 21:05:39,795:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Campus Protests Give Russia, China and Iran Fuel to Exploit U.S. Divide", "url": "https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html"}'
+2024-05-02 21:05:39,796:INFO:JSON loaded successfully
+2024-05-02 21:05:39,801:INFO:News item created with ID: 72
+2024-05-02 21:05:44,587:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Where Protesters on U.S. Campuses Have Been Arrested or Detained", "url": "https://www.nytimes.com/interactive/2024/us/pro-palestinian-college-protests-encampments.html"}'
+2024-05-02 21:05:44,587:INFO:JSON loaded successfully
+2024-05-02 21:05:44,592:INFO:News item created with ID: 73
+2024-05-02 21:05:49,744:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "After the 2016 Election, Porn Star\\u2019s Lawyer Lamented a Hush-Money Deal", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-trial-keith-davidson-stormy-daniels-hush-money.html"}'
+2024-05-02 21:05:49,745:INFO:JSON loaded successfully
+2024-05-02 21:05:49,750:INFO:News item created with ID: 74
+2024-05-02 21:06:13,579:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Judge Grills U.S. and Google on Antitrust Claims", "url": "https://www.nytimes.com/2024/05/02/technology/judge-mehta-google-antitrust-closing-arguments.html"}'
+2024-05-02 21:06:13,579:INFO:JSON loaded successfully
+2024-05-02 21:06:13,584:INFO:News item created with ID: 75
+2024-05-02 21:06:28,533:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "A Restaurant Critic\\u2019s Full Plate Encroaches on His Palate", "url": "https://www.nytimes.com/2024/04/23/insider/pete-wells-new-york.html"}'
+2024-05-02 21:06:28,533:INFO:JSON loaded successfully
+2024-05-02 21:06:28,538:INFO:News item created with ID: 76
+2024-05-02 21:10:45,320:INFO:Connected with result code 0
+2024-05-02 21:11:02,151:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Hardest Letter to the Editor", "url": "https://www.nytimes.com/2024/04/27/insider/the-hardest-letter-to-the-editor.html"}'
+2024-05-02 21:11:02,151:INFO:JSON loaded successfully
+2024-05-02 21:11:02,167:INFO:Created a new NewsItem: The Hardest Letter to the Editor
+2024-05-02 21:11:03,811:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Hardest Letter to the Editor", "url": "https://www.nytimes.com/2024/04/27/insider/the-hardest-letter-to-the-editor.html"}'
+2024-05-02 21:11:03,811:INFO:JSON loaded successfully
+2024-05-02 21:11:03,812:INFO:NewsItem already exists: The Hardest Letter to the Editor
+2024-05-02 21:11:06,385:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "The Hardest Letter to the Editor", "url": "https://www.nytimes.com/2024/04/27/insider/the-hardest-letter-to-the-editor.html"}'
+2024-05-02 21:11:06,385:INFO:JSON loaded successfully
+2024-05-02 21:11:06,386:INFO:NewsItem already exists: The Hardest Letter to the Editor
+2024-05-02 21:11:14,429:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "\\u2018The Interview,\\u2019 a \\u2018Full-Course Dinner\\u2019 With the World\\u2019s Most Interesting People", "url": "https://www.nytimes.com/2024/04/27/insider/the-interview-a-full-course-dinner-with-the-worlds-most-interesting-people.html"}'
+2024-05-02 21:11:14,429:INFO:JSON loaded successfully
+2024-05-02 21:11:14,437:INFO:Created a new NewsItem: ‘The Interview,’ a ‘Full-Course Dinner’ With the World’s Most Interesting People
+2024-05-02 21:16:49,794:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "In Los Angeles, a Hilltop Garden Party With a Tower of Crudit\\u00e9s", "url": "https://www.nytimes.com/2024/05/02/t-magazine/kismet-los-angeles-garden-party.html"}'
+2024-05-02 21:16:49,794:INFO:JSON loaded successfully
+2024-05-02 21:16:49,800:INFO:Created a new NewsItem: In Los Angeles, a Hilltop Garden Party With a Tower of Crudités
+2024-05-02 21:17:08,910:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Judge Grills U.S. and Google on Antitrust Claims", "url": "https://www.nytimes.com/2024/05/02/technology/judge-mehta-google-antitrust-closing-arguments.html"}'
+2024-05-02 21:17:08,910:INFO:JSON loaded successfully
+2024-05-02 21:17:08,911:INFO:NewsItem already exists: Judge Grills U.S. and Google on Antitrust Claims
+2024-05-02 21:17:26,408:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Larry Young, Who Studied the Chemistry of Love, Dies at 56", "url": "https://www.nytimes.com/2024/05/02/science/larry-young-dead.html"}'
+2024-05-02 21:17:26,408:INFO:JSON loaded successfully
+2024-05-02 21:17:26,415:INFO:Created a new NewsItem: Larry Young, Who Studied the Chemistry of Love, Dies at 56
+2024-05-02 21:17:52,122:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81", "url": "https://www.nytimes.com/2024/05/02/health/robert-b-oxnam-dead.html"}'
+2024-05-02 21:17:52,122:INFO:JSON loaded successfully
+2024-05-02 21:17:52,128:INFO:Created a new NewsItem: Robert Oxnam, China Scholar Beset by Multiple Personalities, Dies at 81
+2024-05-02 22:48:49,106:INFO:Connected with result code 0
+2024-05-02 22:50:38,389:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-02 22:50:38,390:INFO:JSON loaded successfully
+2024-05-02 22:50:38,399:INFO:Created a new NewsItem: Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall
+2024-05-02 22:50:40,381:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-02 22:50:40,381:INFO:JSON loaded successfully
+2024-05-02 22:50:40,382:INFO:NewsItem already exists: Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall
+2024-05-02 22:50:50,324:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-02 22:50:50,324:INFO:JSON loaded successfully
+2024-05-02 22:50:50,330:INFO:Created a new NewsItem: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
+2024-05-02 23:31:11,287:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Jury Hears Tape of Trump and Cohen Discussing Hush-Money Deal", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-trial-keith-davidson-stormy-daniels.html"}'
+2024-05-02 23:31:11,287:INFO:JSON loaded successfully
+2024-05-02 23:31:11,294:INFO:Created a new NewsItem: Jury Hears Tape of Trump and Cohen Discussing Hush-Money Deal
+2024-05-03 00:09:23,096:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "U.N. report says rebuilding all the homes destroyed in Gaza could take 80 years.", "url": "https://www.nytimes.com/2024/05/02/world/middleeast/gaza-homes-rebuild-un-report.html"}'
+2024-05-03 00:09:23,097:INFO:JSON loaded successfully
+2024-05-03 00:09:23,104:INFO:Created a new NewsItem: U.N. report says rebuilding all the homes destroyed in Gaza could take 80 years.
+2024-05-03 00:23:35,214:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-03 00:23:35,214:INFO:JSON loaded successfully
+2024-05-03 00:23:35,221:INFO:Created a new NewsItem: Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall
+2024-05-03 00:23:36,704:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-03 00:23:36,704:INFO:JSON loaded successfully
+2024-05-03 00:23:36,705:INFO:NewsItem already exists: Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall
+2024-05-03 00:23:53,031:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Hamas Studies a Gaza Cease-Fire Offer From Israel, and Hints at Progress", "url": "https://www.nytimes.com/2024/05/02/world/middleeast/hamas-israel-gaza-ceasefire.html"}'
+2024-05-03 00:23:53,031:INFO:JSON loaded successfully
+2024-05-03 00:23:53,038:INFO:Created a new NewsItem: Hamas Studies a Gaza Cease-Fire Offer From Israel, and Hints at Progress
+2024-05-03 00:23:55,797:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Hamas Studies a Gaza Cease-Fire Offer From Israel, and Hints at Progress", "url": "https://www.nytimes.com/2024/05/02/world/middleeast/hamas-israel-gaza-ceasefire.html"}'
+2024-05-03 00:23:55,797:INFO:JSON loaded successfully
+2024-05-03 00:23:55,798:INFO:NewsItem already exists: Hamas Studies a Gaza Cease-Fire Offer From Israel, and Hints at Progress
+2024-05-03 00:24:03,633:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "They Used to Award Olympic Medals for Art?", "url": "https://www.nytimes.com/2024/05/02/us/paris-olympics-arts-medals.html"}'
+2024-05-03 00:24:03,633:INFO:JSON loaded successfully
+2024-05-03 00:24:03,639:INFO:Created a new NewsItem: They Used to Award Olympic Medals for Art?
+2024-05-03 00:24:22,670:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "This Pie Maximizes the Best Part of Spanakopita", "url": "https://www.nytimes.com/2024/05/02/dining/greek-orthodox-easter-striftopites.html"}'
+2024-05-03 00:24:22,670:INFO:JSON loaded successfully
+2024-05-03 00:24:22,676:INFO:Created a new NewsItem: This Pie Maximizes the Best Part of Spanakopita
+2024-05-03 03:32:37,408:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Jury Hears Tape of Trump and Cohen Discussing Hush-Money Deal", "url": "https://www.nytimes.com/video/nyregion/100000009446422/jury-hears-tape-of-trump-and-cohen.html"}'
+2024-05-03 03:32:37,410:INFO:JSON loaded successfully
+2024-05-03 03:32:37,416:INFO:Created a new NewsItem: Jury Hears Tape of Trump and Cohen Discussing Hush-Money Deal
+2024-05-03 03:33:03,869:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Cool-Down Stretches", "url": "https://www.nytimes.com/2024/05/02/crosswords/daily-puzzle-2024-05-03.html"}'
+2024-05-03 03:33:03,870:INFO:JSON loaded successfully
+2024-05-03 03:33:03,876:INFO:Created a new NewsItem: Cool-Down Stretches
+2024-05-03 03:33:40,068:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "What Is \\u2018Queer Food\\u2019? A Conference Explores (and Tastes) Some Answers.", "url": "https://www.nytimes.com/2024/05/02/dining/queer-food-conference.html"}'
+2024-05-03 03:33:40,069:INFO:JSON loaded successfully
+2024-05-03 03:33:40,079:INFO:Created a new NewsItem: What Is ‘Queer Food’? A Conference Explores (and Tastes) Some Answers.
+2024-05-03 03:35:12,942:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall", "url": "https://www.nytimes.com/2024/05/02/nyregion/columbia-students-hamilton-hall.html"}'
+2024-05-03 03:35:12,942:INFO:JSON loaded successfully
+2024-05-03 03:35:12,948:INFO:Created a new NewsItem: Locks, Chains, Diversions: How Columbia Students Seized Hamilton Hall
+2024-05-03 03:35:26,991:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-03 03:35:26,991:INFO:JSON loaded successfully
+2024-05-03 03:35:27,002:INFO:Created a new NewsItem: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
+2024-05-03 03:35:44,324:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-03 03:35:44,324:INFO:JSON loaded successfully
+2024-05-03 03:35:44,330:INFO:Created a new NewsItem: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
+2024-05-03 03:35:45,223:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-03 03:35:45,223:INFO:JSON loaded successfully
+2024-05-03 03:35:45,224:INFO:NewsItem already exists: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
+2024-05-03 03:35:45,855:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-03 03:35:45,855:INFO:JSON loaded successfully
+2024-05-03 03:35:45,856:INFO:NewsItem already exists: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
+2024-05-03 03:35:46,587:INFO:Message received-> devices/b827eb309ede/news/: b'{"title": "Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways", "url": "https://www.nytimes.com/2024/05/02/nyregion/trump-hush-money-stormy-daniels-takeaways.html"}'
+2024-05-03 03:35:46,587:INFO:JSON loaded successfully
+2024-05-03 03:35:46,588:INFO:NewsItem already exists: Tapes Take Trump Jurors Into the Heart of Hush-Money Deals: 5 Takeaways
