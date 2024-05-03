@@ -267,7 +267,7 @@ Notice the the logic to handle whether the ArticleListScreen should display the 
 
 In the ArticleScreen, we integrate mqtt to send to the EC2 instance. A json with the article title and url is created and is encoded in utf-8 for mqtt message payload.
 
-### Move on to [Setting Up Website](../Setting%20Up%Website)
+### Move on to [Setting Up Website](../Setting%20Up%20Website)
 
 
 
