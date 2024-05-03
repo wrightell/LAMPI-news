@@ -25,6 +25,6 @@ Type: Custom TCP
 Port Range: 50001
 Source: Custom 0/0.0.0.0
 ```
-and save. 
+and save. We will use MQTT in the Kivy Application to send API request results to our EC2 instance.
 
 ### Move on to [Setting Up Kivy GUI](../Setting%20Up%20Kivy%20GUI)
