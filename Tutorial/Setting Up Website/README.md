@@ -284,9 +284,72 @@ user=ubuntu
 environment=DJANGO_SETTINGS_MODULE="newssite.settings"
 ```
 ### Step 7: Deploy the Website
-We are going to use Nginx and uwsgi to host the website. To do this we need to install both. First we need to change permissions to our home directory with `chmod +rx /home/ubuntu`. It is not good to host sites from the home directory, but, alas. To get nginx run `sudp apt-get install -y nginx`. We need to open the http port so go to the AWS console and add another inbound rule, but this time with Type HTTP. 
+We are going to use Nginx and uwsgi to host the website. To do this we need to install both. First we need to change permissions to our home directory with `chmod +rx /home/ubuntu`. It is not good to host sites from the home directory, but, alas. To get nginx run `sud apt-get install -y nginx`. We need to open the http port so go to the AWS console and add another inbound rule, but this time with Type HTTP. To get uWSGI run 
+```
+sudo apt-get install build-essential python3-dev -y1
+sudo pip3 install uwsgi
+```
+This gets dependecies and installs it. We need static files for deployment that are not used in development so in the django settings file we need to point to them. Add `STATIC_ROOT= os.path.join(BASE_DIR, "static")` at the end of the file. Then run `python3 manage.py collectstatic`. To get the default nginx file for uwsgi run in the top directory of your whole django app:
+```
+wget https://github.com/nginx/nginx/raw/master/conf/uwsgi_params
+```
+and then copy this file to newssite/uwsgi_params.
+Now we need to create an app-specific nginx configureation so run `sudo nano newssite_nginx.conf` and fill in:
+```
+upstream django {
+    server unix:///home/ubuntu/LAMPI-news/Web/newssite/newssite.sock;
+}
 
+server {
+    listen 80;
+    listen [::]:80;
 
+    server_name ec2-34-207-111-28.compute-1.amazonaws.com;
+
+    charset utf-8;
+    client_max_body_size 75M;
+
+    location /static {
+        alias /home/ubuntu/LAMPI-news/Web/newssite/static;
+    }
+
+    location / {
+        uwsgi_pass django;
+        include /home/ubuntu/LAMPI-news/Web/newssite/uwsgi_params;
+    }
+}
+```
+Create a symlink to /etc/nginx/sites-enabled with:
+```
+sudo ln -s /home/ubuntu/LAMPI-news/Web/newssite/newssite_nginx.conf /etc/nginx/sites-enabled/
+```
+Now edit your nginx.conf file with `sudo nano /etc/nginx/nginx.conf` and set it exactly to:
+```
+user www-data;
+worker_processes 4;
+pid /run/nginx.pid;
+
+events {
+  worker_connections 768;
+}
+
+http {
+  include /etc/nginx/mime.types;
+  include /etc/nginx/sites-enabled/*.conf;
+  server_names_hash_bucket_size 128;
+}
+```
+Now restart nginx with `sudo service nginx restart` and create a supervisor script to continually run the website. Run `sudo nano /etc/supervisor/conf.d/newssite.conf` and write:
+```
+[program:newssite]
+command=/usr/local/bin/uwsgi --emperor /etc/uwsgi/vassals --uid www-data --gid www-data
+directory=/home/ubuntu/LAMPI-news/Web/newssite
+autostart=true
+autorestart=true
+stderr_logfile=/var/log/newssite/newssite.err.log
+stdout_logfile=/var/log/newssite/newssite.out.log
+```
+Remember to reread and update supervisor. Everything should be working now. So you can add articles to your reading list on your lampi and if you navigate to "http://<EC2-IP>:80/news/reading-list/" you can see your list!!!
 
 
 
