@@ -8,7 +8,10 @@ chmod 400 <path_to_your_pem_file>
 ```
 on the key file to restrict access. Finally, launch your instance. Then, set an Elastic IP address so that the IP remains the same even if you stop or restart the instance. In the AWS Console, find `Elastic IPs` on the lefthand side and select `Allocate Elastic IP address`. Attach it to your instance.
 
-### Step 3: Logging in and Updating
+### Step 3: Enabling ssh
+Find the `Security Groups` on the lefthand side (below Elastic IPs). We want to create one if there isn't already one. Add an inbound rule with Type:SSH, Protocol:TCP, Port Range: 22, and Source:Custom 0.0.0.0/0.
+
+### Step 4: Logging in and Updating
 On your own computer enter:
 ```
 ssh -i "<path to private key>" <ec2_user>@<ec2_public_ip>
