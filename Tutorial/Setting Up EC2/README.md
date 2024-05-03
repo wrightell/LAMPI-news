@@ -15,4 +15,4 @@ ssh -i "<path to private key>" <ec2_user>@<ec2_public_ip>
 ```
 If you didn't change anything, <ec2_user> is `ubuntu`. Run `sudo apt-get update` and `sudo apt upgrade` and accept any prompts. Follow the same steps in [Setting Up Lampi](../Setting%20Up%20LAMPI) to get python3. 
 
-### Move on to [Accessing NYT API](../Acessing%20NYT%20API)
+### Move on to [Accessing NYT API](../Accessing%20NYT%20API)
