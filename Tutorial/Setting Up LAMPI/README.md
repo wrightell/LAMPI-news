@@ -17,4 +17,4 @@ sudo apt install python3
 sudo apt install python3-pip
 ```
 
-### Move on to [Setting Up EC2](./Setting%20Up%20EC2)
+### Move on to [Setting Up EC2](../Setting%20Up%20EC2)
