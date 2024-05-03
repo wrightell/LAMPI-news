@@ -76,6 +76,6 @@ class NYTConnector():
             print(f"{response.status_code}: {response.reason}")
             return None
 ```
-I just created an class which stores the key and has the calls I made with some extra statements. I use a pandas dataframe to filter the results of the jsons to the sections I needed. 
+I just created a class which stores the key and has the calls I made with some extra statements. I use a pandas dataframe to filter the results of the jsons to the sections I needed. 
 
-### Move on to (Setting Up MQTT)[../Setting%20Up%20MQTT]
+### Move on to [Setting Up MQTT](../Setting%20Up%20MQTT)
