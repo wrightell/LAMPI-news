@@ -263,7 +263,7 @@ if __name__ == '__main__':
 ```
 
 ### Step 4: Integrating the Backend Logic
-Notice the the logic to handle whether the ArticleListScreen should display the top stories for a section or recent stories needs to be defined. On the home screen, when the recent button is selected, it triggers a call to the article list screen with `None` as the section argument to the `list_articles` function. 
+Notice the the logic to handle whether the ArticleListScreen should display the top stories for a section or recent stories needs to be defined. On the home screen, when the recent button is selected, it triggers a call to the article list screen with `None` as the section argument to the `list_articles` function. When the user is at the Top Screen, it triggers a call to the article list screen with `section` as the argument. 
 
 In the ArticleScreen, we integrate mqtt to send to the EC2 instance. A json with the article title and url is created and is encoded in utf-8 for mqtt message payload.
 
